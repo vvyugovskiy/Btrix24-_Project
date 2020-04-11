@@ -5,5 +5,4 @@ public class sampleClass {
 
         System.out.println("Hello world :)");
     }
-
 }
