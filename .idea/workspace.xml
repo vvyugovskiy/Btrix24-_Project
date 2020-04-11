@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a631ea05-11b5-4ba2-9650-c8e62d89c28d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/pages/AbstractBasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/tests/AbstractTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/tests/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/utilities/DateTimeUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/automation/java/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/sampleClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +153,10 @@
       <option name="presentableId" value="Default" />
       <updated>1586486771700</updated>
       <workItem from="1586490645919" duration="99000" />
-      <workItem from="1586494561825" duration="4771000" />
+      <workItem from="1586494561825" duration="4921000" />
+      <workItem from="1586554179598" duration="50000" />
+      <workItem from="1586568540513" duration="10000" />
+      <workItem from="1586568588501" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="target">
       <created>1586490709670</created>
@@ -196,22 +188,22 @@
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
     <state x="479" y="144" key="CommitChangelistDialog2/0.23.1792.1042@0.23.1792.1042" timestamp="1586490709539" />
-    <state width="1735" height="285" key="GridCell.Tab.0.bottom" timestamp="1586499469043">
+    <state width="1735" height="285" key="GridCell.Tab.0.bottom" timestamp="1586554229324">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1735" height="285" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1586499469043" />
-    <state width="1735" height="285" key="GridCell.Tab.0.center" timestamp="1586499469042">
+    <state width="1735" height="285" key="GridCell.Tab.0.bottom/0.23.1792.1042@0.23.1792.1042" timestamp="1586554229324" />
+    <state width="1735" height="285" key="GridCell.Tab.0.center" timestamp="1586554229324">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1735" height="285" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1586499469042" />
-    <state width="1735" height="285" key="GridCell.Tab.0.left" timestamp="1586499469042">
+    <state width="1735" height="285" key="GridCell.Tab.0.center/0.23.1792.1042@0.23.1792.1042" timestamp="1586554229324" />
+    <state width="1735" height="285" key="GridCell.Tab.0.left" timestamp="1586554229323">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1735" height="285" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1586499469042" />
-    <state width="1735" height="285" key="GridCell.Tab.0.right" timestamp="1586499469043">
+    <state width="1735" height="285" key="GridCell.Tab.0.left/0.23.1792.1042@0.23.1792.1042" timestamp="1586554229323" />
+    <state width="1735" height="285" key="GridCell.Tab.0.right" timestamp="1586554229324">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
-    <state width="1735" height="285" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1586499469043" />
+    <state width="1735" height="285" key="GridCell.Tab.0.right/0.23.1792.1042@0.23.1792.1042" timestamp="1586554229324" />
     <state x="496" y="284" key="Vcs.Push.Dialog.v2" timestamp="1586490726638">
       <screen x="0" y="23" width="1792" height="1042" />
     </state>
